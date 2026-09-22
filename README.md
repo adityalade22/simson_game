@@ -40,7 +40,8 @@ Simon-Game/
 └── README.md
 ```
 
-## 🎯 Objective
+## 🎯 LIVE LINK:
+https://adityalade22.github.io/simson_game/
 
 The objective is to remember and reproduce the longest possible sequence of colors without making a mistake.
 
