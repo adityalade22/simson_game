@@ -44,11 +44,7 @@ Simon-Game/
 
 The objective is to remember and reproduce the longest possible sequence of colors without making a mistake.
 
-## 🔗 Live Demo
-
-
 ## 👨‍💻 Author
 
 **Aditya Lade**
-
 If you find this project useful or interesting, feel free to ⭐ the repository!
