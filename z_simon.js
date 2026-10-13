@@ -22,6 +22,9 @@ function levelup() {
 
   h6.innerText = `Highest Score:${bestScore}`;
   h3.innerText = `Level ${level}`;
+  if (level>bestScore){
+    bestScore = level;
+  }
   let randomColr = Math.floor(Math.random() * 4);
   let getColr = color[randomColr];
   let randomBtn = document.querySelector(`.${getColr}`);
