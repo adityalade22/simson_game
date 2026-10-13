@@ -40,8 +40,6 @@ Simon-Game/
 └── README.md
 ```
 
-## 🎯 Objective
-
 The objective is to remember and reproduce the longest possible sequence of colors without making a mistake.
 
 ## 👨‍💻 Author
